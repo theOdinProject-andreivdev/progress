@@ -45,3 +45,11 @@ Etch-a-Sketch which does not really work on mobile :(
 [github page](https://theodinproject-andreivdev.github.io/etch-a-sketch/)
 
 [repo](https://github.com/theOdinProject-andreivdev/etch-a-sketch)
+
+## calculator
+
+This was easier than I expected, I'm learning :D
+
+[github page](https://theodinproject-andreivdev.github.io/calculator/)
+
+[repo](https://github.com/theOdinProject-andreivdev/calculator)
