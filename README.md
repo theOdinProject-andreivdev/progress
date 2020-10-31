@@ -26,9 +26,9 @@ This is my first webpage
 
 Drumkit exercise from TOP
 
-[github page](https://github.com/theOdinProject-andreivdev/drumkit)
+[github page](https://theodinproject-andreivdev.github.io/drumkit/)
 
-[repo](https://theodinproject-andreivdev.github.io/drumkit/)
+[repo](https://github.com/theOdinProject-andreivdev/drumkit)
 
 ## rock paper scrissors
 
