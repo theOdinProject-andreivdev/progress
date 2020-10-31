@@ -40,7 +40,7 @@ Rock paper scrissors game
 
 ## etch-a-sketch
 
-Etch-a-Sketch which does not really well on mobile :(
+Etch-a-Sketch which does not really work on mobile :(
 
 [github page](https://theodinproject-andreivdev.github.io/etch-a-sketch/)
 
