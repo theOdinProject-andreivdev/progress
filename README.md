@@ -37,3 +37,11 @@ Rock paper scrissors game
 [github page](https://theodinproject-andreivdev.github.io/rock-paper-scissors/)
 
 [repo](https://github.com/theOdinProject-andreivdev/rock-paper-scissors)
+
+## etch-a-sketch
+
+Etch-a-Sketch which does not really well on mobile :(
+
+[github page](https://theodinproject-andreivdev.github.io/etch-a-sketch/)
+
+[repo](https://github.com/theOdinProject-andreivdev/etch-a-sketch)
