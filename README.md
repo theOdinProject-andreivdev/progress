@@ -53,3 +53,11 @@ This was easier than I expected, I'm learning :D
 [github page](https://theodinproject-andreivdev.github.io/calculator/)
 
 [repo](https://github.com/theOdinProject-andreivdev/calculator)
+
+## library
+
+Save the books you want to read
+
+[github page](https://theodinproject-andreivdev.github.io/library/)
+
+[repo](https://github.com/theOdinProject-andreivdev/library)
