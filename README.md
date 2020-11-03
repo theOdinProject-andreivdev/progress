@@ -67,3 +67,9 @@ Save the books you want to read
 [github page](https://theodinproject-andreivdev.github.io/tictactoe/)
 
 [repo](https://github.com/theOdinProject-andreivdev/tictactoe)
+
+# todo list
+
+[github page](https://theodinproject-andreivdev.github.io/todolist/)
+
+[repo](https://github.com/theOdinProject-andreivdev/todolist/)
