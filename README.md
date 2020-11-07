@@ -73,3 +73,11 @@ Save the books you want to read
 [github page](https://theodinproject-andreivdev.github.io/todolist/)
 
 [repo](https://github.com/theOdinProject-andreivdev/todolist/)
+
+# CV Application 
+
+Very simple user input app in React with no backend. I'm learning React :)
+
+[github page](https://github.com/theOdinProject-andreivdev/cv-application)
+
+[repo](https://theodinproject-andreivdev.github.io/cv-application/)
