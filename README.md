@@ -87,3 +87,9 @@ Very simple user input app in React with no backend. I'm learning React :)
 [github page](https://theodinproject-andreivdev.github.io/memory-card/)
 
 [repo](https://github.com/theOdinProject-andreivdev/memory-card)
+
+## Shopping cart example
+
+[github page](https://theodinproject-andreivdev.github.io/shopping-cart/)
+
+[repo](https://github.com/theOdinProject-andreivdev/shopping-cart)
