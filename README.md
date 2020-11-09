@@ -68,13 +68,13 @@ Save the books you want to read
 
 [repo](https://github.com/theOdinProject-andreivdev/tictactoe)
 
-# todo list
+## todo list
 
 [github page](https://theodinproject-andreivdev.github.io/todolist/)
 
 [repo](https://github.com/theOdinProject-andreivdev/todolist/)
 
-# CV Application 
+## CV Application 
 
 Very simple user input app in React with no backend. I'm learning React :)
 
