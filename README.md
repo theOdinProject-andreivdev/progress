@@ -81,3 +81,9 @@ Very simple user input app in React with no backend. I'm learning React :)
 [github page](https://github.com/theOdinProject-andreivdev/cv-application)
 
 [repo](https://theodinproject-andreivdev.github.io/cv-application/)
+
+## Memory card example
+
+[github page](https://theodinproject-andreivdev.github.io/memory-card/)
+
+[repo](https://github.com/theOdinProject-andreivdev/memory-card)
