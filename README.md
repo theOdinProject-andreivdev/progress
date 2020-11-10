@@ -93,3 +93,11 @@ Very simple user input app in React with no backend. I'm learning React :)
 [github page](https://theodinproject-andreivdev.github.io/shopping-cart/)
 
 [repo](https://github.com/theOdinProject-andreivdev/shopping-cart)
+
+## Weather app
+
+Simple weather app with React, Bootstrap, openweathermap API and localStorage
+
+[github page](https://theodinproject-andreivdev.github.io/weather/)
+
+[repo](https://github.com/theOdinProject-andreivdev/weather)
