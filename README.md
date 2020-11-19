@@ -101,3 +101,12 @@ Simple weather app with React, Bootstrap, openweathermap API and localStorage
 [github page](https://theodinproject-andreivdev.github.io/weather/)
 
 [repo](https://github.com/theOdinProject-andreivdev/weather)
+
+
+## Battleship
+
+Battleship game
+
+[github page](https://theodinproject-andreivdev.github.io/battleship/)
+
+[repo](https://github.com/theOdinProject-andreivdev/battleship)
