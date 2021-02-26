@@ -110,3 +110,11 @@ Battleship game
 [github page](https://theodinproject-andreivdev.github.io/battleship/)
 
 [repo](https://github.com/theOdinProject-andreivdev/battleship)
+
+## Bitcoin visu
+
+Bitcoin blockchain visualizer
+
+[github page](https://theodinproject-andreivdev.github.io/bitcoin-visu/)
+
+[repo](https://github.com/theOdinProject-andreivdev/bitcoin-visu)
